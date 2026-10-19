@@ -1,0 +1,20 @@
+TNM001|Monstera Deliciosa|Tanaman Hias Daun|7|2026-10-15|Sehat
+TNM002|Lidah Buaya|Sukulen|14|2026-10-08|Sehat
+TNM003|Mawar Merah|Tanaman Berbunga|2|2026-10-21|Sehat
+TNM004|Kaktus Bulat|Kaktus|21|2026-09-28|Sehat
+TNM005|Anggrek Bulan|Anggrek|5|2026-10-14|Sehat
+TNM006|Sirih Gading|Tanaman Rambat|4|2026-10-16|Sehat
+TNM007|Lavender|Herbal|3|2026-10-17|Sehat
+TNM008|Cabai Rawit|Sayuran|1|2026-10-19|Sehat
+TNM009|Tomat Cherry|Sayuran|2|2026-10-17|Sehat
+TNM010|Bonsai Beringin|Bonsai|3|2026-10-16|Sehat
+TNM011|Lidah Mertua|Tanaman Hias Daun|14|2026-10-05|Sehat
+TNM012|Melati|Tanaman Berbunga|2|2026-10-18|Sehat
+TNM013|Mint|Herbal|2|2026-10-15|Sehat
+TNM014|Echeveria|Sukulen|12|2026-10-10|Sehat
+TNM015|Suplir|Paku-pakuan|2|2026-10-17|Sehat
+TNM016|Kemangi|Herbal|1|2026-10-19|Sehat
+TNM017|Adenium|Sukulen|10|2026-10-11|Sehat
+TNM018|Calathea|Tanaman Hias Daun|5|2026-10-12|Sehat
+TNM019|Pakis Boston|Paku-pakuan|3|2026-10-16|Sehat
+TNM020|Bunga Matahari|Tanaman Berbunga|2|2026-10-18|Sehat
